@@ -1,0 +1,6 @@
+Logging Info:
+
+Temperature: 100
+Pressure: 12
+
+Message: O.K.
